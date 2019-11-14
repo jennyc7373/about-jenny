@@ -1,6 +1,7 @@
 # About Me
 
 My name is Jenny.
+Bio:
 
 School: **HS of Telecommunication**
 
