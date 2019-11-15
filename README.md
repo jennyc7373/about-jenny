@@ -6,9 +6,11 @@ Bio:
 School: **HS of Telecommunication**
 
 Contact: jennyc7373@hstat.org
+
+[Website](https://github.com/jennyc7373/about-me)
 ____
 
->Schedule
+> #### Schedule
 1. SEP
 2. APUSH
 3. English
@@ -16,7 +18,7 @@ ____
 5. Spanish
 6. Physic
 ___
-##### Likes ...
+#### Likes ...
 * tennis
 * play games
 * eat
