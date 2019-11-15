@@ -1,25 +1,29 @@
 # About Me
 
-My name is Jenny.
+My name is Jenny.  
+  
+  
 Bio:
 
 School: **HS of Telecommunication**
 
-Contact: jennyc7373@hstat.org
+_Email: jennyc7373@hstat.org_ 
 
 [Website](https://github.com/jennyc7373/about-me)
 ____
 
-> #### Schedule
+### Schedule
 1. SEP
 2. APUSH
 3. English
 4. Algebra 2
 5. Spanish
-6. Physic
+6. Physic  
 ___
-#### Likes ...
-* tennis
+
+
+> ### Likes ...
+* tennis 
 * play games
 * eat
 * sleep
